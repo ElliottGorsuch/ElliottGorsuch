@@ -1,4 +1,4 @@
-# Elliot Gorsuch
+# Elliott Gorsuch
 
 Data scientist and builder based in **Conifer / Denver, Colorado**. I turn messy data and practical questions into analyses and tools people can use.
 
@@ -16,6 +16,6 @@ Python, SQL, pandas, NumPy, scikit-learn, exploratory data analysis, geospatial 
 
 Available for full-time **data science and applied ML roles**, remote or in the Western United States, while completing MADS.
 
-[Portfolio](https://elliottgorsuch.com) · [LinkedIn](https://www.linkedin.com/in/elliot-gorsuch-891096253/)
+[Portfolio](https://elliottgorsuch.com) · [LinkedIn](https://www.linkedin.com/in/elliott-gorsuch-891096253/)
 
 Climbing and skiing keep me curious; many projects start with a question from outside.
